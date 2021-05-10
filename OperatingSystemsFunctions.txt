@@ -1,0 +1,3 @@
+Providing a user interface is an important operating system function. Most devices today use a graphical user interface. The book explains this as a user
+interface that one "interacts with menus and visual images by touching, pointing, tapping, or clicking buttons". An example of a user interface would be Apple's 
+app icons appearing the same on any apple device. 
