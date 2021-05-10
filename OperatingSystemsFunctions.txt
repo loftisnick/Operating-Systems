@@ -3,3 +3,5 @@ interface that one "interacts with menus and visual images by touching, pointing
 app icons appearing the same on any apple device. 
 
 Another important operating system function is to manage memory. The book explains hows this is very important to be able to "optimize the use of a computer or device's internal memory. The memory holds all the data and instructions to run apps and programs. When a user wants to launch an app or start a program the operating system finds the instructions in the memory. 
+
+Configuring devices in another important function of an operating system. Whenever a person connects a device to a computer such as a mouse, keyboard, or gaming controller a device driver intructs the operating system on how to communicate with the specifc device. Without the device driver your computer would not be able to tell what is connected to it and how to use it. 
